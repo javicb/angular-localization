@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1283648927146765480" datatype="html">
+        <source> Phrase Service Feedback </source>
+        <target>Commentaires sur le service de phrase</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8953033926734869941" datatype="html">
+        <source>Name</source>
+        <target>Nom</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3833692663709091545" datatype="html">
+        <source>Name is required</source>
+        <target>Le nom est requis</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3948439187870398089" datatype="html">
+        <source>Gender</source>
+        <target>Le genre</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="333569013746982658" datatype="html">
+        <source>
+          <x id="START_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&lt;mat-option value=&quot;Male&quot;&gt;"/>Male<x id="CLOSE_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&lt;/mat-option&gt;"/>
+          <x id="START_TAG_MAT_OPTION_1" ctype="x-mat_option_1" equiv-text="&lt;mat-option value=&quot;Female&quot;&gt;"/>Female<x id="CLOSE_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&lt;/mat-option&gt;"/>
+          <x id="START_TAG_MAT_OPTION_2" ctype="x-mat_option_2" equiv-text="&lt;mat-option value=&quot;Others&quot;&gt;"/>Don&apos;t Want to disclose<x id="CLOSE_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&lt;/mat-option&gt;"/></source>
+        <target>
+          <x id="START_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&lt;mat-option value=&quot;Male&quot;&gt;"/>Mâle<x id="CLOSE_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&lt;/mat-option&gt;"/>
+          <x id="START_TAG_MAT_OPTION_1" ctype="x-mat_option_1" equiv-text="&lt;mat-option value=&quot;Female&quot;&gt;"/>Femelle<x id="CLOSE_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&lt;/mat-option&gt;"/>
+          <x id="START_TAG_MAT_OPTION_2" ctype="x-mat_option_2" equiv-text="&lt;mat-option value=&quot;Others&quot;&gt;"/>Je ne veux pas divulguer<x id="CLOSE_TAG_MAT_OPTION" ctype="x-mat_option" equiv-text="&lt;/mat-option&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7365943113255386486" datatype="html">
+        <source>Gender is required </source>
+        <target>Le sexe est requis</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2662644497259948010" datatype="html">
+        <source>Comment</source>
+        <target>Commentaire</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6122860170557177285" datatype="html">
+        <source>Comment is required </source>
+        <target>Un commentaire est requis</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6577585920655305738" datatype="html">
+        <source>Rate our customer service: </source>
+        <target>Évaluez notre service client: </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2667889563673073444" datatype="html">
+        <source>
+          <x id="START_TAG_MAT_RADIO_BUTTON" ctype="x-mat_radio_button" equiv-text="&lt;mat-radio-button class=&quot;example-radio-button&quot; value=&quot;Excellent&quot;&gt;"/> Excellent <x id="CLOSE_TAG_MAT_RADIO_BUTTON" ctype="x-mat_radio_button" equiv-text="&lt;/mat-radio-button&gt;"/>
+          <x id="START_TAG_MAT_RADIO_BUTTON_1" ctype="x-mat_radio_button_1" equiv-text="&lt;mat-radio-button class=&quot;example-radio-button&quot; value=&quot;Good&quot;&gt;"/> Good <x id="CLOSE_TAG_MAT_RADIO_BUTTON" ctype="x-mat_radio_button" equiv-text="&lt;/mat-radio-button&gt;"/>
+          <x id="START_TAG_MAT_RADIO_BUTTON_2" ctype="x-mat_radio_button_2" equiv-text="&lt;mat-radio-button class=&quot;example-radio-button&quot; value=&quot;Bad&quot;&gt;"/> Bad <x id="CLOSE_TAG_MAT_RADIO_BUTTON" ctype="x-mat_radio_button" equiv-text="&lt;/mat-radio-button&gt;"/>
+        </source>
+        <target>
+          <x id="START_TAG_MAT_RADIO_BUTTON" ctype="x-mat_radio_button" equiv-text="&lt;mat-radio-button class=&quot;example-radio-button&quot; value=&quot;Excellent&quot;&gt;"/> Excellent <x id="CLOSE_TAG_MAT_RADIO_BUTTON" ctype="x-mat_radio_button" equiv-text="&lt;/mat-radio-button&gt;"/>
+          <x id="START_TAG_MAT_RADIO_BUTTON_1" ctype="x-mat_radio_button_1" equiv-text="&lt;mat-radio-button class=&quot;example-radio-button&quot; value=&quot;Good&quot;&gt;"/> Bien <x id="CLOSE_TAG_MAT_RADIO_BUTTON" ctype="x-mat_radio_button" equiv-text="&lt;/mat-radio-button&gt;"/>
+          <x id="START_TAG_MAT_RADIO_BUTTON_2" ctype="x-mat_radio_button_2" equiv-text="&lt;mat-radio-button class=&quot;example-radio-button&quot; value=&quot;Bad&quot;&gt;"/> Mauvais <x id="CLOSE_TAG_MAT_RADIO_BUTTON" ctype="x-mat_radio_button" equiv-text="&lt;/mat-radio-button&gt;"/>
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">32,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7580387622315348902" datatype="html">
+        <source>Rating is required</source>
+        <target>Une évaluation est requise</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="935187492052582731" datatype="html">
+        <source>Submit</source>
+        <target>Soumettre</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/feedback/feedback.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
